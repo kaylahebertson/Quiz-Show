@@ -3,7 +3,7 @@
 
 ## Description
 
-This project allows a user to answer various random questions. A cypress test is implemented to ensure the project runs as intended.
+This project allows a user to answer various random questions. Cypress component and e2e tests are implemented to ensure the project runs as intended.
 
 ## Table of Contents
 
@@ -30,7 +30,8 @@ npm i
 
 ## Usage
 
-Please see the walkthrough video:
+To run the Cypress tests simply run the command "npm run start:dev" followed by "npm run test". Please see the walkthrough video:
+![demo of tests](./Assets/quiz-show.gif)
 
 ## License
 This project is licensed under the MIT license.
@@ -44,7 +45,7 @@ Please feel free to offer suggestions on how I can improve.
 To run tests, run the following command:
 
 ```
-none
+npm run test
 ```
 
 ## Questions
