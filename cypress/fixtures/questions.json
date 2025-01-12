@@ -1,11 +1,12 @@
 [
     {
-        "question": "Which is the correct answer?",
-        "answers": [
-            { "text": "Correct", "isCorrect": true },
-            { "text": "Wrong", "isCorrect": false },
-            { "text": "Wrong", "isCorrect": false },
-            { "text": "Wrong", "isCorrect": false }
-        ]
+      "question": "Which is the correct answer?",
+      "answers": [
+        { "text": "Correct", "isCorrect": true },
+        { "text": "Almost", "isCorrect": false },
+        { "text": "Not Quite", "isCorrect": false },
+        { "text": "Not Close", "isCorrect": false }
+      ]
     }
-]
+  ]
+  
